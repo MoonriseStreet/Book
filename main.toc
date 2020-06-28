@@ -1,0 +1,11 @@
+\babel@toc {russian}{}
+\contentsline {part}{I\hspace {1em}\IeC {\CYRR }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrery }}{1}
+\contentsline {chapter}{\IeC {\CYRI }. \IeC {\CYRA }.~\IeC {\CYRB }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrn } }{2}
+\contentsline {chapter}{\IeC {\CYRG }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrs } \IeC {\CYRR }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrery } }{5}
+\contentsline {chapter}{*** }{10}
+\contentsline {chapter}{\IeC {\CYRG }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrz }\IeC {\cyra }}{12}
+\contentsline {chapter}{\IeC {\CYRN }\IeC {\CYRI }-17. }{15}
+\contentsline {chapter}{\IeC {\CYRI }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrya } \IeC {\cyrd }\IeC {\cyre }\IeC {\cyrv }\IeC {\cyru }\IeC {\cyrsh }\IeC {\cyrk }\IeC {\cyra } }{27}
+\contentsline {chapter}{When you fall in~love\IeC {\dots } }{30}
+\contentsline {chapter}{*** }{33}
+\contentsline {chapter}{Love story.}{36}

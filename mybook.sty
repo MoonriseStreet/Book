@@ -1,0 +1,22 @@
+
+\RequirePackage[english, russian]{babel}
+\RequirePackage[utf8x]{inputenc}
+\RequirePackage{multicol}
+\RequirePackage{wrapfig}
+\RequirePackage{graphicx}
+\frenchspacing
+\pagestyle{headings}
+\hfuzz=0.5pt
+
+\newcommand{\inputchapter}[1]{\input{content/#1.tex}}
+
+\newcommand\chap[1]{\chapter*{\centering #1}%
+	\addcontentsline{toc}{chapter}{#1}}
+
+\renewcommand{\@evenhead}%
+{\vbox{\hbox to\textwidth{\hfill \strut автор?}\hrule}}
+\renewcommand{\@oddhead}%
+{\vbox{\hbox to\textwidth{\strut чудесный сборник рассказов \hfill}\hrule}}
+\renewcommand{\@evenfoot}{\hfil --- \hbox{\thepage} ---\hfil}
+\renewcommand{\@oddfoot}{\hfil --- \thepage ---\hfil}
+
