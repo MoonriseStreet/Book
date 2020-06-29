@@ -4,19 +4,22 @@
 \RequirePackage{multicol}
 \RequirePackage{wrapfig}
 \RequirePackage{graphicx}
+\RequirePackage{indentfirst}
+\RequirePackage{lettrine}
 \frenchspacing
 \pagestyle{headings}
 \hfuzz=0.5pt
+
+\newcommand{\addfootnote}[1]{\footnote{\usefont{T2A}{Tempora-TLF}{m}{n} \strut #1}}
 
 \newcommand{\inputchapter}[1]{\input{content/#1.tex}}
 
 \newcommand\chap[1]{\chapter*{\centering #1}%
 	\addcontentsline{toc}{chapter}{#1}}
 
-\renewcommand{\@evenhead}%
-{\vbox{\hbox to\textwidth{\hfill \strut автор?}\hrule}}
-\renewcommand{\@oddhead}%
-{\vbox{\hbox to\textwidth{\strut чудесный сборник рассказов \hfill}\hrule}}
-\renewcommand{\@evenfoot}{\hfil --- \hbox{\thepage} ---\hfil}
-\renewcommand{\@oddfoot}{\hfil --- \thepage ---\hfil}
 
+\renewcommand{\@oddhead}%
+{\vbox{\hbox to\textwidth{	\usefont{T2A}{Tempora-TLF}{m}{n} \strut ура рассказы \hfill клёво}\hrule}}
+\renewcommand{\@oddfoot}{	\usefont{T2A}{Tempora-TLF}{m}{n} \hfil --- \thepage ---\hfil}
+
+\renewcommand*{\l@chapter}{\@dottedtocline{1}{5ex}{2.0ex}}
