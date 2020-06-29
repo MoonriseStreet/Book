@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.20)  29 JUN 2020 13:46
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.9.20)  30 JUN 2020 00:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -403,7 +403,13 @@ Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[23]) (./content/park.tex
+[23]
+Overfull \hbox (2.26797pt too wide) in paragraph at lines 86--97
+\T2A/Tempora-TLF/m/sc/12 Стояла лет-няя теп-лая ночь, та-кая, ко-то-рая на-сту-
+па-ет по-сле удушливо-жаркого
+ []
+
+) (./content/park.tex
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
@@ -600,13 +606,13 @@ Overfull \hbox (23.624pt too wide) in paragraph at lines 416--454
  []
 
 
-Overfull \hbox (23.624pt too wide) in paragraph at lines 416--454
- \T2A/cmtt/m/n/12 виды камер и дронов. Мои родители --- оба ученые. Мама 
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 416--454
+ \T2A/cmtt/m/n/12 виды камер и дронов. Мои родители -- оба ученые. Мама 
  []
 
 
 Overfull \hbox (79.18542pt too wide) in paragraph at lines 416--454
- \T2A/cmtt/m/n/12 ---врач, вернее она что-то вроде психолога. У нее исследовани
+ \T2A/cmtt/m/n/12 -- врач, вернее она что-то вроде психолога. У нее исследовани
 е. 
  []
 
@@ -757,54 +763,53 @@ Overfull \hbox (11.27701pt too wide) in paragraph at lines 455--478
  []
 
 
-Overfull \hbox (5.10352pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 Большая часть Земли --- сухая пустыня. Человеческий 
+Overfull \hbox (23.624pt too wide) in paragraph at lines 455--478
+ \T2A/cmtt/m/n/12 Большая часть Земли -- сухая пустыня. Человеческий ген 
  []
 
 
-Overfull \hbox (17.4505pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 ген стареет, идеи ученых тоже измельчали. Люди почти 
+Overfull \hbox (60.66495pt too wide) in paragraph at lines 455--478
+ \T2A/cmtt/m/n/12 стареет, идеи ученых тоже измельчали. Люди почти бесплодны, 
  []
 
 
-Overfull \hbox (17.4505pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 бесплодны, земли тоже. Мы пошли не по тому пути. Все 
+Overfull \hbox (54.49146pt too wide) in paragraph at lines 455--478
+ \T2A/cmtt/m/n/12 земли тоже. Мы пошли не по тому пути. Все благие начинания 
  []
 
 
-Overfull \hbox (73.01193pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 благие начинания обернулись крахом. И хотя ученые и правители
- 
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 455--478
+ \T2A/cmtt/m/n/12 обернулись крахом. И хотя ученые и правители мнят себя 
+ []
+
+
+Overfull \hbox (29.79749pt too wide) in paragraph at lines 455--478
+ \T2A/cmtt/m/n/12 выше остальных, на самом деле они так же слепы. Только 
  []
 
 
 Overfull \hbox (48.31796pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 мнят себя выше остальных, на самом деле они так же слепы. 
+ \T2A/cmtt/m/n/12 слепота вторых оправдывается тем, что их сделали слепыми, 
  []
 
 
 Overfull \hbox (35.97098pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 Только слепота вторых оправдывается тем, что их сделали 
+ \T2A/cmtt/m/n/12 а первые так и не смогли выйти из своих мелких проблем. 
  []
 
 
-Overfull \hbox (35.97098pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 слепыми, а первые так и не смогли выйти из своих мелких 
+Overfull \hbox (23.624pt too wide) in paragraph at lines 455--478
+ \T2A/cmtt/m/n/12 Чем сильнее мы развиваем новые технологии, тем дальше 
  []
 
 
-Overfull \hbox (11.27701pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 проблем. Чем сильнее мы развиваем новые технологии, 
+Overfull \hbox (17.4505pt too wide) in paragraph at lines 455--478
+ \T2A/cmtt/m/n/12 мы от звезд. Мы не ищем путей спасения, мы сами роем 
  []
 
 
-Overfull \hbox (5.10352pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 тем дальше мы от звезд. Мы не ищем путей спасения, 
- []
-
-
-Overfull \hbox (42.14447pt too wide) in paragraph at lines 455--478
- \T2A/cmtt/m/n/12 мы сами роем себе могилу. Но может там, вдалеке, кроется 
+Overfull \hbox (23.624pt too wide) in paragraph at lines 455--478
+ \T2A/cmtt/m/n/12 себе могилу. Но может там, вдалеке, кроется спасение?  
  []
 
 
@@ -828,8 +833,8 @@ Overfull \hbox (66.83844pt too wide) in paragraph at lines 479--496
  []
 
 
-Overfull \hbox (54.49146pt too wide) in paragraph at lines 479--496
- \T2A/cmtt/m/n/12 Королева. Ничего. Был выход. НИ-17 --- новый вид наркотика. 
+Overfull \hbox (48.31796pt too wide) in paragraph at lines 479--496
+ \T2A/cmtt/m/n/12 Королева. Ничего. Был выход. НИ-17 -- новый вид наркотика. 
  []
 
 
@@ -955,43 +960,54 @@ Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 ] (./content/zarisovki.tex [55
 
+] [56
+
+
 ]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[56]
+[57] [58
+
+
+]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[57]
+[59] [60
+
+
+]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[58]
+[61] [62
+
+
+] [63
+
+
+]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[59]
+[64]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[60]
+[65]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[61]
+[66]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[62]
+[67])
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[63])
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[64] (./main.toc
+[68] (./main.toc
 LaTeX Font Info:    Try loading font information for OT1+Tempora-TLF on input l
 ine 1.
 
@@ -1007,7 +1023,7 @@ e 2.
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [65
+ [69
 
 ]
 (./main.aux)
@@ -1016,10 +1032,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4668 strings out of 492982
- 61513 string characters out of 6134896
- 131422 words of memory out of 5000000
- 8102 multiletter control sequences out of 15000+600000
+ 4669 strings out of 492982
+ 61518 string characters out of 6134896
+ 129848 words of memory out of 5000000
+ 8103 multiletter control sequences out of 15000+600000
  32486 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,8n,25p,899b,669s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1034,10 +1050,10 @@ pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super
 share/texmf/fonts/type1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/ty
 pe1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sftt1200.pfb>
-Output written on main.pdf (66 pages, 351400 bytes).
+Output written on main.pdf (70 pages, 357351 bytes).
 PDF statistics:
- 259 PDF objects out of 1000 (max. 8388607)
- 179 compressed objects within 2 object streams
+ 272 PDF objects out of 1000 (max. 8388607)
+ 188 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
