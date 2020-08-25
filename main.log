@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.9)  25 AUG 2020 10:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2020.8.9)  25 AUG 2020 21:53
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -538,83 +538,328 @@ LaTeX Font Warning: Font shape `T2A/Tempora-TLF/m/scit' undefined
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[3]) (./content/chetverg.tex
+[3]) (./content/golos.tex
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
 [4]
 Package lettrine.sty Info: Targeted height = 34.45999pt
 (lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRV }) loversi
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRK }) loversi
 ze=0.1;
-(lettrine.sty)             reported on input line 3.
+(lettrine.sty)             reported on input line 2.
  [5
 
 ]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[6]) (./content/golos.tex
+[6]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
 [7]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[8]) (./content/zarisovki.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[9]
 Package lettrine.sty Info: Targeted height = 34.45999pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRK }) loversi
 ze=0.1;
 (lettrine.sty)             reported on input line 2.
- [8
+ [10
 
 ]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRK }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 16.
+ [11
 
 
-[9]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[10]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[11]) (./content/trud.tex
+]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
 [12]
 Package lettrine.sty Info: Targeted height = 34.45999pt
 (lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRS }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 2.
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRYA }) lovers
+ize=0.1;
+(lettrine.sty)             reported on input line 85.
  [13
+
 
 ]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
 [14]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRG }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 125.
+ [15
 
 
-[15]
+]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
 [16]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRM }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 179.
+ [17
 
 
-[17]) (./content/strizh.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRD }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 206.
+ [18
 
 
-[18]
+]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
 [19]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[20]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[21]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[22]) (./content/son.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[23]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRO }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 3.
+ [24
+
+])
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[25] [26
+
+] (./content/russia.tex
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRYA }) lovers
+ize=0.1;
+(lettrine.sty)             reported on input line 5.
+ [27
+
+]) (./content/trud.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[28]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRS }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 2.
+ [29
+
+]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[30]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[31]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[32]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[33])
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[34]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[35] [36
+
+] (./content/chetverg.tex
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRV }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 3.
+ [37
+
+]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[38]) (./content/fallinlove.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[39]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRU }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 3.
+ [40
+
+]
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+36.
+ (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (4.20786pt too wide) in paragraph at lines 39--43
+[]\T2A/cmtt/m/n/12 <<—танци€ парк культуры, переход на сокольническую линию. Th
+is
+ []
+
+
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[41]) (./content/devushka.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[42]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRO }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 3.
+ [43
+
+]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[44]) (./content/virus.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[45]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRP }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 2.
+ [46
+
+]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[47]) (./content/love.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[48]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (T) loversize=0.1;
+(lettrine.sty)             reported on input line 3.
+ [49
+
+]
+Overfull \hbox (7.72473pt too wide) in paragraph at lines 43--50
+[]\T2A/Tempora-TLF/m/sc/12 But then things started go wrong. Some newspapers st
+arted publishing unpleasant
+ []
+
+)
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[50] [51
+
+] (./content/factor.tex [52
+
+]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[53]
+Overfull \hbox (22.356pt too wide) in paragraph at lines 55--61
+\T2A/Tempora-TLF/m/sc/12 тие, при-€т-но ур-чал под ка-по-том, по ра-дио зву-ча-
+ло что-то попсово-расслабл€ющее,
+ []
+
+
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[54]) (./content/park.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[55]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYREREV }) love
+rsize=0.1;
+(lettrine.sty)             reported on input line 3.
+ [56
+
+]) (./content/zhuk.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[57]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRP }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 2.
+ [58
+
+]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[59]
+Overfull \hbox (2.26797pt too wide) in paragraph at lines 86--97
+\T2A/Tempora-TLF/m/sc/12 —то€ла лет-н€€ теп-ла€ ночь, та-ка€, ко-то-ра€ на-сту-
+па-ет по-сле удушливо-жаркого
+ []
+
+) (./content/strizh.tex
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[60]
 Package lettrine.sty Info: Targeted height = 34.45999pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYREREV }) love
@@ -626,112 +871,91 @@ Overfull \hbox (1.989pt too wide) in paragraph at lines 3--9
 о дл€ ме-н€ но-вым. я до сих
  []
 
-[20
-
-]) (./content/zhuk.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[21]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRP }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 2.
- [22
-
-]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[23]
-Overfull \hbox (2.26797pt too wide) in paragraph at lines 86--97
-\T2A/Tempora-TLF/m/sc/12 —то€ла лет-н€€ теп-ла€ ночь, та-ка€, ко-то-ра€ на-сту-
-па-ет по-сле удушливо-жаркого
- []
-
-) (./content/park.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[24]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYREREV }) love
-rsize=0.1;
-(lettrine.sty)             reported on input line 3.
- [25
+[61
 
 ]) (./content/groza.tex
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[26]
+[62]
 Package lettrine.sty Info: Targeted height = 34.45999pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 37.90628pt (<<\IeC {\CYRP }) lover
 size=0.1;
 (lettrine.sty)             reported on input line 5.
- [27
+ [63
 
 ]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[28]
-LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-165.
- (/usr/share/texlive/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
-File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)
+[64]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[29]) (./content/NI-17.tex
+[65]) (./content/justintime.tex
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[30]
+[66]
+Package lettrine.sty Info: Targeted height = 34.45999pt
+(lettrine.sty)             (no accent, loversize=0),
+(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRE }) loversi
+ze=0.1;
+(lettrine.sty)             reported on input line 3.
+ [67
+
+]
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[68])
+Overfull \vbox (2.89998pt too high) has occurred while \output is active []
+
+
+[69] [70
+
+] (./content/NI-17.tex
 Package lettrine.sty Info: Targeted height = 34.45999pt
 (lettrine.sty)             (no accent, loversize=0),
 (lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRO }) loversi
 ze=0.1;
 (lettrine.sty)             reported on input line 4.
- [31
+ [71
 
 ]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[32]
+[72]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[33]
+[73]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[34]
+[74]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[35]
+[75]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[36]
+[76]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[37]
+[77]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[38]
+[78]
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[39]
+[79]
 Overfull \hbox (5.54074pt too wide) in paragraph at lines 391--397
 []\T2A/Tempora-TLF/m/sc/12 --- “ы мо-жешь от-тал-ки-вать ме-н€ столь-ко, сколь-
 ко со-чтешь нуж-ным. Ќо € все
@@ -950,7 +1174,7 @@ Overfull \hbox (23.624pt too wide) in paragraph at lines 416--454
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[40]
+[80]
 Overfull \hbox (16.55484pt too wide) in paragraph at lines 455--478
  []\T2A/cmtt/m/n/12  огда € училась в школе, то познакомилась с парой 
  []
@@ -1075,7 +1299,7 @@ Overfull \hbox (23.624pt too wide) in paragraph at lines 455--478
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[41]
+[81]
 Overfull \hbox (10.38135pt too wide) in paragraph at lines 479--496
  []\T2A/cmtt/m/n/12  ак ты понимаешь, когда такое выливаетс€ на теб€ 
  []
@@ -1163,209 +1387,11 @@ Overfull \hbox (17.4505pt too wide) in paragraph at lines 479--496
  \T2A/cmtt/m/n/12 без защиты выполн€ть какую-то гр€зную работенку. ћне 
  []
 
-) (./content/devushka.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[42]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRO }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 3.
- [43
-
-]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[44]) (./content/son.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[45]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRO }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 3.
- [46
-
-]) (./content/fallinlove.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[47]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRU }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 3.
- [48
-
-]
-Overfull \hbox (4.20786pt too wide) in paragraph at lines 39--43
-[]\T2A/cmtt/m/n/12 <<—танци€ парк культуры, переход на сокольническую линию. Th
-is
- []
-
-
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[49]) (./content/virus.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[50]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRP }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 2.
- [51
-
-]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[52]) (./content/russia.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[53]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRYA }) lovers
-ize=0.1;
-(lettrine.sty)             reported on input line 5.
- [54
-
-]) (./content/justintime.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[55]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRE }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 3.
- [56
-
-]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[57]) (./content/love.tex
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[58]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (T) loversize=0.1;
-(lettrine.sty)             reported on input line 3.
- [59
-
-]
-Overfull \hbox (7.72473pt too wide) in paragraph at lines 43--50
-[]\T2A/Tempora-TLF/m/sc/12 But then things started go wrong. Some newspapers st
-arted publishing unpleasant
- []
-
 )
 Overfull \vbox (2.89998pt too high) has occurred while \output is active []
 
 
-[60] [61
-
-] (./content/zarisovki.tex
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRK }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 2.
- [62
-
-]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRK }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 16.
- [63
-
-
-]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[64]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRYA }) lovers
-ize=0.1;
-(lettrine.sty)             reported on input line 85.
- [65
-
-
-]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[66]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRG }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 125.
- [67
-
-
-]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[68]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRM }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 179.
- [69
-
-
-]
-Package lettrine.sty Info: Targeted height = 34.45999pt
-(lettrine.sty)             (no accent, loversize=0),
-(lettrine.sty)             Lettrine height = 37.90628pt (\IeC {\CYRD }) loversi
-ze=0.1;
-(lettrine.sty)             reported on input line 206.
- [70
-
-
-]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[71]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[72]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[73]
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[74])
-Overfull \vbox (2.89998pt too high) has occurred while \output is active []
-
-
-[75] (./main.toc
+[82] (./main.toc
 LaTeX Font Info:    Trying to load font information for OT1+Tempora-TLF on inpu
 t line 1.
 
@@ -1376,7 +1402,7 @@ TLF.
 \tf@toc=\write3
 \openout3 = `main.toc'.
 
- [76
+ [83
 
 ]
 (./main.aux)
@@ -1385,10 +1411,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 4973 strings out of 481239
- 64151 string characters out of 5920378
- 313081 words of memory out of 5000000
- 20120 multiletter control sequences out of 15000+600000
+ 4977 strings out of 481239
+ 64213 string characters out of 5920378
+ 313001 words of memory out of 5000000
+ 20121 multiletter control sequences out of 15000+600000
  567152 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  38i,8n,31p,899b,669s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1403,10 +1429,10 @@ pe1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/cm-super
 share/texmf/fonts/type1/public/cm-super/sfrm0700.pfb></usr/share/texmf/fonts/ty
 pe1/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/
 sfrm1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on main.pdf (77 pages, 393847 bytes).
+Output written on main.pdf (84 pages, 406609 bytes).
 PDF statistics:
- 300 PDF objects out of 1000 (max. 8388607)
- 207 compressed objects within 3 object streams
+ 322 PDF objects out of 1000 (max. 8388607)
+ 222 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
