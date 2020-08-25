@@ -1,18 +1,19 @@
 \babel@toc {russian}{}
-\contentsline {part}{I\hspace {1em}\IeC {\CYRR }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrery }}{1}
-\contentsline {chapter}{\IeC {\CYRI }.~\IeC {\CYRA }.~\IeC {\CYRB }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrn }}{2}
-\contentsline {chapter}{\IeC {\CYRCH }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrery }\IeC {\cyrishrt } \IeC {\cyrch }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyrg }}{5}
-\contentsline {chapter}{\IeC {\CYRG }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrs } \IeC {\CYRR }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrery }}{8}
-\contentsline {chapter}{\IeC {\CYRT }\IeC {\cyrr }\IeC {\cyru }\IeC {\cyrd }}{13}
-\contentsline {chapter}{***}{20}
-\contentsline {chapter}{\IeC {\CYRZH }\IeC {\cyru }\IeC {\cyrk }}{22}
-\contentsline {chapter}{\IeC {\CYRP }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrk }}{25}
-\contentsline {chapter}{\IeC {\CYRG }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrz }\IeC {\cyra }}{27}
-\contentsline {chapter}{\IeC {\CYRN }\IeC {\CYRI }-17}{31}
-\contentsline {chapter}{\IeC {\CYRI }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrya } \IeC {\cyrd }\IeC {\cyre }\IeC {\cyrv }\IeC {\cyru }\IeC {\cyrsh }\IeC {\cyrk }\IeC {\cyra }}{43}
-\contentsline {chapter}{When you fall in~love...}{46}
-\contentsline {chapter}{***}{49}
-\contentsline {chapter}{\IeC {\CYRO } \IeC {\cyrs }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrg }\IeC {\cyre } \IeC {\cyrv } \IeC {\CYRK }\IeC {\cyru }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyre }\\ \relax \fontsize {10.95}{13.6}\selectfont \abovedisplayskip 11\p@ plus3\p@ minus6\p@ \abovedisplayshortskip \z@ plus3\p@ \belowdisplayshortskip 6.5\p@ plus3.5\p@ minus3\p@ \def \leftmargin \leftmargini \parsep 5\p@ plus2.5\p@ minus\p@ \topsep 10\p@ plus4\p@ minus6\p@ \itemsep 5\p@ plus2.5\p@ minus\p@ {\leftmargin \leftmargini \topsep 9\p@ plus3\p@ minus5\p@ \parsep 4.5\p@ plus2\p@ minus\p@ \itemsep \parsep }\belowdisplayskip \abovedisplayskip \textit {\IeC {\cyri } \IeC {\cyrt }\IeC {\cyre }\IeC {\cyrh } \IeC {\cyrm }\IeC {\cyrery }\IeC {\cyrs }\IeC {\cyrl }\IeC {\cyrya }\IeC {\cyrh }, \IeC {\cyrk }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrery }\IeC {\cyre } \IeC {\cyro }\IeC {\cyrn } \IeC {\cyrr }\IeC {\cyro }\IeC {\cyrzh }\IeC {\cyrd }\IeC {\cyra }\IeC {\cyre }\IeC {\cyrt }}}{52}
-\contentsline {chapter}{\IeC {\CYRV }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrm }\IeC {\cyrya }}{55}
-\contentsline {chapter}{Love story}{58}
-\contentsline {part}{II\hspace {1em}\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrk }\IeC {\cyri } \IeC {\cyri }\IeC {\cyrz } \IeC {\cyrzh }\IeC {\cyri }\IeC {\cyrz }\IeC {\cyrn }\IeC {\cyri }}{60}
+\contentsline {part}{I\hspace {1em}\IeC {\CYRR }\IeC {\cyra }\IeC {\cyrs }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyra }\IeC {\cyrz }\IeC {\cyrery }}{1}%
+\contentsline {chapter}{\IeC {\CYRI }.~\IeC {\CYRA }.~\IeC {\CYRB }\IeC {\cyru }\IeC {\cyrn }\IeC {\cyri }\IeC {\cyrn }}{2}%
+\contentsline {chapter}{\IeC {\CYRCH }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyrt }\IeC {\cyrery }\IeC {\cyrishrt } \IeC {\cyrch }\IeC {\cyre }\IeC {\cyrt }\IeC {\cyrv }\IeC {\cyre }\IeC {\cyrr }\IeC {\cyrg }}{5}%
+\contentsline {chapter}{\IeC {\CYRG }\IeC {\cyro }\IeC {\cyrl }\IeC {\cyro }\IeC {\cyrs } \IeC {\CYRR }\IeC {\cyro }\IeC {\cyrd }\IeC {\cyri }\IeC {\cyrn }\IeC {\cyrery }}{8}%
+\contentsline {chapter}{\IeC {\CYRT }\IeC {\cyrr }\IeC {\cyru }\IeC {\cyrd }}{13}%
+\contentsline {chapter}{***}{20}%
+\contentsline {chapter}{\IeC {\CYRZH }\IeC {\cyru }\IeC {\cyrk }}{22}%
+\contentsline {chapter}{\IeC {\CYRP }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyrk }}{25}%
+\contentsline {chapter}{\IeC {\CYRG }\IeC {\cyrr }\IeC {\cyro }\IeC {\cyrz }\IeC {\cyra }}{27}%
+\contentsline {chapter}{\IeC {\CYRN }\IeC {\CYRI }-17}{31}%
+\contentsline {chapter}{\IeC {\CYRI }\IeC {\cyrd }\IeC {\cyre }\IeC {\cyra }\IeC {\cyrl }\IeC {\cyrsftsn }\IeC {\cyrn }\IeC {\cyra }\IeC {\cyrya } \IeC {\cyrd }\IeC {\cyre }\IeC {\cyrv }\IeC {\cyru }\IeC {\cyrsh }\IeC {\cyrk }\IeC {\cyra }}{43}%
+\contentsline {chapter}{Amour somnium breve}{46}%
+\contentsline {chapter}{When you fall in~love...}{48}%
+\contentsline {chapter}{***}{51}%
+\contentsline {chapter}{\IeC {\CYRO } \IeC {\cyrs }\IeC {\cyrn }\IeC {\cyre }\IeC {\cyrg }\IeC {\cyre } \IeC {\cyrv } \IeC {\CYRK }\IeC {\cyru }\IeC {\cyrr }\IeC {\cyrs }\IeC {\cyrk }\IeC {\cyre } \small \textit {\IeC {\cyri } \IeC {\cyrt }\IeC {\cyre }\IeC {\cyrh } \IeC {\cyrm }\IeC {\cyrery }\IeC {\cyrs }\IeC {\cyrl }\IeC {\cyrya }\IeC {\cyrh }, \IeC {\cyrk }\IeC {\cyro }\IeC {\cyrt }\IeC {\cyro }\IeC {\cyrr }\IeC {\cyrery }\IeC {\cyre } \IeC {\cyro }\IeC {\cyrn } \IeC {\cyrr }\IeC {\cyro }\IeC {\cyrzh }\IeC {\cyrd }\IeC {\cyra }\IeC {\cyre }\IeC {\cyrt }}}{54}%
+\contentsline {chapter}{\IeC {\CYRV }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrr }\IeC {\cyre }\IeC {\cyrm }\IeC {\cyrya }}{56}%
+\contentsline {chapter}{Love story}{59}%
+\contentsline {part}{II\hspace {1em}\IeC {\CYRZ }\IeC {\cyra }\IeC {\cyrr }\IeC {\cyri }\IeC {\cyrs }\IeC {\cyro }\IeC {\cyrv }\IeC {\cyrk }\IeC {\cyri } \IeC {\cyri }\IeC {\cyrz } \IeC {\cyrzh }\IeC {\cyri }\IeC {\cyrz }\IeC {\cyrn }\IeC {\cyri }}{61}%
